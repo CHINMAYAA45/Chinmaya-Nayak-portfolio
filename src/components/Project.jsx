@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import ProjectCard from "./ProjectCard";
+import ProjectCard from "./projectCard";
 import { projects } from "../assets/assets.js";
 import { FaArrowRight } from "react-icons/fa";
 
