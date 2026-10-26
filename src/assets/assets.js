@@ -94,8 +94,8 @@ export const projects = [
     image: projectImg4,
     tech: ["React", "Vite", "Tailwind CSS"],
     icons: [FaReact],
-    demo: "https://github.com/CHINMAYAA45/YOUR-PORTFOLIO-REPO",
-    code: "https://github.com/CHINMAYAA45/YOUR-PORTFOLIO-REPO",
+    demo: "https://chinmaya-nayak-portfolio.vercel.app",
+    code: "https://github.com/CHINMAYAA45/Chinmaya-Nayak-portfolio",
   },
 ];
 
